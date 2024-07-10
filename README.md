@@ -1,4 +1,4 @@
-This project was conducted as part of the 'Data Prediction Model' class during the 2023-1 
+*This project was conducted as part of the 'Data Prediction Model' class during the 2023-1*
 
 # Introduction 
 
