@@ -2,6 +2,8 @@
 
 ## What is '리더스' 
 
+<img src="https://github.com/Rukkha1024/Improving-Readers-App-Recommendations-with-ML-Analysis/assets/128712657/c7b71d73-baf5-4b3d-9474-6b770356b249" width="10%" height="10%"></img>
+
 '리더스' 어플은 사용자가 읽은 책을 기록하고, 마음에 드는 구절을 강조하며 감상평을 남길 수 있는 독서 플랫폼이다. 기록을 통해 사용자는 자신의 독서 이력을 관리 및 공유하며, '북클럽'이라는 기능을 활용해 '리더스'가 선정한 다양한 주제의 책을 다른 어플 사용자들과 함께 읽는다. 
 
 
